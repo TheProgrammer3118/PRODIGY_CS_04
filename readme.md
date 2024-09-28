@@ -21,7 +21,6 @@ Dharmpreet Singh 👤
 
 To install the required library, run:
 
-```bash
 pip install pynput
 Usage
 You can run the keylogger from the command line with optional arguments:
@@ -40,7 +39,6 @@ CRITICAL ⚠️
 Here's the README.md file with emojis added for a more engaging presentation:
 
 markdown
-Copy code
 # Simple Keylogger 🖥️
 
 A simple keylogger implemented in Python using the `pynput` library. This tool captures keystrokes and logs them to a specified file with timestamps. 📜
@@ -64,7 +62,6 @@ Dharmpreet Singh 👤
 
 To install the required library, run:
 
-```bash
 pip install pynput
 Usage
 You can run the keylogger from the command line with optional arguments:
